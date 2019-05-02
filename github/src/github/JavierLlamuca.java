@@ -10,5 +10,8 @@ package github;
  * @author ESTUDIANTE
  */
 public class JavierLlamuca {
+    public static void main(String[] args) {
+        
+    }
     
 }

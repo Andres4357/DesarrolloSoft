@@ -10,5 +10,7 @@ package github;
  * @author ESTUDIANTE
  */
 public class Pozo {
-    
+    public static void main(String[] args) {
+        System.out.println(":v");
+    }
 }

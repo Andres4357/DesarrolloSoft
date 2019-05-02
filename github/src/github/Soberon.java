@@ -10,5 +10,8 @@ package github;
  * @author ESTUDIANTE
  */
 public class Soberon {
+    public static void main(String[] args) {
+        System.out.println("sobe he conocido personas peores :v ");
+    }
     //VIlleguitas
 }
